@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://api.xiaomimimo.com/v1",
+    "apiKey": "sk-你的MiMo密钥",
+    "model": "mimo-v2.6-flash",
+    "relationship": "对方是和我关系密切的人；from=me 的是我发的，from=other 的是对方发的",
+    "groupTrigger": "at",
+    "defaultSessionOn": true,
+    "contextRounds": 8,
+    "maxTokens": 800
+}
